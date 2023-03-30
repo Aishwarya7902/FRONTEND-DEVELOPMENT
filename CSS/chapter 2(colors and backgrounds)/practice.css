@@ -1,0 +1,31 @@
+ul{
+    background-color:black;
+    color: white;
+    width: 200px;
+    height: 100vh;
+}
+*{
+    margin: 0;
+    padding:0;
+}
+.main{
+    background-color: red;
+}
+.container3{
+    background-image: url('img.jpg');
+    height: 544px;
+    width: 544px;
+    background-repeat: no-repeat;
+    background-color: aqua;
+    /* background-size: 500px 500px; */
+}
+.container4{
+    height: 100vh;
+    width: 100px;
+    background-image: url('https://cdn.pixabay.com/photo/2013/07/21/13/00/rose-165819__480.jpg');
+    background-attachment: fixed;
+    background-size: 200px 300px;
+    background-repeat: no-repeat;
+    
+}
+
