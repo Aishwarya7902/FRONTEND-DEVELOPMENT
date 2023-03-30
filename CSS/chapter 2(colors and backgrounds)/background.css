@@ -1,0 +1,23 @@
+.container{
+    background-color: aquamarine;
+    height: 1744px;
+    width: 344px;
+    color: white;
+    background-image: url("img.jpg");
+   /* background-repeat: no-repeat; */
+   /* background-size: 63px 45px; */
+   background-repeat: no-repeat;
+   border: 2px solid red;
+   background-position:  center;
+   background-attachment: fixed;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   /* background-image: url("img.jpg");
+   /* background-repeat: no-repeat; */
+   /* background-size: cover;
+   background-repeat: no-repeat; */ */
+} 
