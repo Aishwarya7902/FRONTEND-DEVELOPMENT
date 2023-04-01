@@ -1,0 +1,24 @@
+.box1{
+    width: 231px;
+    height: 34px;
+    background-color: red;
+}
+
+.box2{
+    width: 231px;
+    height: 34px;
+    background-color: rgb(0, 0, 255);
+}
+
+
+/* display property is 
+1.inline 
+2.block
+3.inline-block //by using it we can set width and height for inline elements too
+4.none 
+
+display=none means ab koi aur element uski jagah aa sakta hai 
+
+but visibility hidden means wo jagah reserved hai 
+koi aur ni aa sakta wahan pe
+*/
