@@ -1,0 +1,17 @@
+.container{
+    font-size: 4px;
+}
+.box{
+    /* font-size: 12px; */
+    font-size: 3em; 
+    /* 3em means 3 times size of my parent
+    3rem means 3 times root 
+    % is unit relative to parent*/
+
+    background-color: red;
+}
+.box2{
+    background-color: aqua;
+    width: 50vw;
+    height: 50vh;
+}
